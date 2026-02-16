@@ -40,9 +40,9 @@ Uses analog output.
 
 ### Related
 
-- https://github.com/RobTillaart/PIR - simple PIR library
-- https://github.com/RobTillaart/PIR8575 - multi PIR library
-- https://github.com/RobTillaart/TCRT5000 - this library
+- https://github.com/RobTillaart/PIR - Simple PIR class
+- https://github.com/RobTillaart/PIR8575 - 16 parallel PIR sensors
+- https://github.com/RobTillaart/TCRT5000 - reflective IR sensor
 
 
 ## Interface
