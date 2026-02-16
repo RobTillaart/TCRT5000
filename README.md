@@ -40,7 +40,9 @@ Uses analog output.
 
 ### Related
 
-- https://github.com/RobTillaart/PIR
+- https://github.com/RobTillaart/PIR - simple PIR library
+- https://github.com/RobTillaart/PIR8575 - multi PIR library
+- https://github.com/RobTillaart/TCRT5000 - this library
 
 
 ## Interface
